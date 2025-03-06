@@ -16,7 +16,7 @@
 
   <ItemGroup>
     <PackageReference Include="ScreenRecorderLib" Version="1.9.0" />
-    <PackageReference Include="SixLabors.ImageSharp" Version="1.0.0-rc0001" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="2.1.10" />
   </ItemGroup>
 
 </Project>
